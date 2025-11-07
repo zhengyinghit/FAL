@@ -1,6 +1,8 @@
 # FAL
 Code for our paper "Fuzzy-aware Loss for Source-free Domain Adaptation in Visual Emotion Recognition"
 
+Paper: ([arXiv 2501.15519](https://arxiv.org/abs/2501.15519))
+
 ## Prerequisites:
 - python == 3.9.20
 - pytorch == 2.4.0
